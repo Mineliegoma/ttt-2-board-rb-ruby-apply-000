@@ -1,4 +1,4 @@
 # Define the variable board belo
 board="board"
 board=[]
-board=[ "hi","ho","he","ke,"le","ko","ki","pa","la"]
+board=[ 1,2,3,4,5,6,7,8,9]
